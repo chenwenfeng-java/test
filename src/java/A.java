@@ -7,7 +7,7 @@ public class A {
 
     public static void main(String[] args) {
 System.out.println("cwf");
-        System.out.println("cwf");
+        System.out.println("cwf111");
         System.out.println("初始化");
     }
 }
